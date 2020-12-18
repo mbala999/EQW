@@ -62,7 +62,7 @@
           integer, parameter :: iturb_wm = 1
           integer, parameter :: kmax_wm  = 99
           integer, parameter :: nwm      = 99
-          real(8), parameter :: res_wm   = 1.0d-5
+          real(8), parameter :: res_wm   = 1.0d-6
 
           ! Constants mixing length model
           real(8), parameter :: kt_wm   = 0.41d0
