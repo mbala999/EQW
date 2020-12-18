@@ -5,8 +5,9 @@
       !            Pramod Subbareddy    <pksubbar@ncsu.edu>          !
       !                    Last modified: 12 Dec 2020                !
       !==============================================================!
-      ! REFERENCES: Kawai & Larsson (2012), Physics of Fluids        !
-      !           : Mettu & Subbareddy (2021), AIAA Journal          !
+      ! Cite the below the references when using this code:          !
+      ! - Kawai & Larsson (2012), Physics of Fluids                  !
+      ! - Mettu & Subbareddy (2021), AIAA Journal                    !
       !==============================================================!
 
       module constants
